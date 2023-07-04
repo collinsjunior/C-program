@@ -1,2 +1,2 @@
 # C-program
-My C programs.
+All my C programs.
